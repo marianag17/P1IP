@@ -1,0 +1,7 @@
+C:\Users\luis\Desktop\PRIMER CICLO 2020\EDI\PrimerProyectoIP\PrimerProyectoIP\bin\Debug\PrimerProyectoIP.exe.config
+C:\Users\luis\Desktop\PRIMER CICLO 2020\EDI\PrimerProyectoIP\PrimerProyectoIP\bin\Debug\PrimerProyectoIP.exe
+C:\Users\luis\Desktop\PRIMER CICLO 2020\EDI\PrimerProyectoIP\PrimerProyectoIP\bin\Debug\PrimerProyectoIP.pdb
+C:\Users\luis\Desktop\PRIMER CICLO 2020\EDI\PrimerProyectoIP\PrimerProyectoIP\obj\Debug\PrimerProyectoIP.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\PRIMER CICLO 2020\EDI\PrimerProyectoIP\PrimerProyectoIP\obj\Debug\PrimerProyectoIP.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\PRIMER CICLO 2020\EDI\PrimerProyectoIP\PrimerProyectoIP\obj\Debug\PrimerProyectoIP.exe
+C:\Users\luis\Desktop\PRIMER CICLO 2020\EDI\PrimerProyectoIP\PrimerProyectoIP\obj\Debug\PrimerProyectoIP.pdb
